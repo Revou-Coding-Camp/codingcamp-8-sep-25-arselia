@@ -69,9 +69,9 @@ function initWelcomeMessage() {
         }
     }
 
-    welcomeTitle.textContent = `${greeting} ${name}, Welcome To Website`;
+    welcomeTitle.textContent = `${greeting} ${name}, Welcome To DISCOLUMBINA`;
     
-    typeWriter(welcomeTitle, `${greeting} ${name}, Welcome To Website`, 100);
+    typeWriter(welcomeTitle, `${greeting} ${name}, Welcome To DISCOLUMBINA`, 100);
 }
 
 // User name management functions
@@ -359,7 +359,7 @@ function initFormValidation() {
                 greeting = 'Good Evening';
             }
             
-            welcomeTitle.textContent = `${greeting} ${name}, Welcome To Website`;
+            welcomeTitle.textContent = `${greeting} ${name}, Welcome To DISCOLUMBINA`;
             
         }, 1500); // 1.5 second delay to simulate processing
     }
