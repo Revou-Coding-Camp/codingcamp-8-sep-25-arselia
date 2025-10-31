@@ -19,19 +19,6 @@ It was built using **HTML**, **CSS**, and **JavaScript** as part of the **Coding
 
 ---
 
-## 📁 Project Structure
-index.html
-about.html
-services.html
-contact.html
-css/
-└── style.css
-js/
-└── main.js
-assets/
-└── images/
----
-
 ## 🎯 Project Goals
 - Practice basic **frontend development** skills  
 - Build a simple company profile website  
