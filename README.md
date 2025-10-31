@@ -27,8 +27,7 @@ It was built using **HTML**, **CSS**, and **JavaScript** as part of the **Coding
 ---
 
 ## 👩‍🎤 Author
-**Sherly Septiani**  
-Frontend Enthusiast  
+**Sherly Septiani**
 🔗 [GitHub](https://github.com/arselia)
 
 ---
